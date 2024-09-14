@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(240, 232, 236);
+    padding: 0px !important;
+    margin: 0px !important;
+    
+}
+header {
+    text-align: center;
+    background-color: rgba(20, 1, 20, 0.87);
+    color: #fff;
+}
+.menu {
+    color: #fff;
+    margin-left:  20px;
+    font-size: 25px;
+    text-decoration: none;
+    text-transform:  none;
+
+}
+header nav ul a:hover{
+    color: rgb(45, 112, 18);
+    border-bottom: 2px solid rgb(45, 112, 18);
+}
